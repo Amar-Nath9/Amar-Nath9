@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Saragada Shiva Amar Nath Reddy!<br><br>I'm a passionate backend developer with a strong foundation in Python and Django. Currently, I'm working on a backend project for a Hotel Management System, where I'm deepening my expertise in creating scalable, efficient, and robust backend solutions. With an MCA degree and hands-on experience in web development, I love building and refining the backbone of web applications.<br><br>🔧 Skills & Tools:<br><br>Languages: Python, Java, SQL<br>Backend Development: Django, Flask, MySQL<br>Web Development: HTML, CSS, Bootstrap<br>Data Analysis: Pandas, Numpy, Matplotlib<br>Tools: Git, GitHub, Linux, VS Code<br>🌱 I’m highly interested in backend development and always exploring new technologies to enhance my skill set.<br><br>
-### 📫 Resume: 
-[Saragada Shiva Amar Nath Reddy](https://drive.google.com/file/d/1cGHBxMikHM8pWKU8sY161LLnwhXFNVji/view?usp=sharing)<br>
+### 📫 Resume: [Saragada Shiva Amar Nath Reddy](https://drive.google.com/file/d/1cGHBxMikHM8pWKU8sY161LLnwhXFNVji/view?usp=sharing)<br>
 
 
 
